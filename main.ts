@@ -233,7 +233,7 @@ namespace mbit_Sensor {
 
     }
    
-    //% blockId=mbit_ultrasonic block="超音波測距センサー %Trig|Echo %Echo"
+    //% blockId=mbit_ultrasonic block="超音波距離センサー %Trig|Echo %Echo"
     //% color="#87CEEB"
     //% weight=100
     //% blockGap=10
