@@ -895,7 +895,7 @@ namespace mbit_Robot {
     }
 
 
-	//% blockId=mbit_ultrasonic_car block="ultrasonic return distance(cm)"
+	//% blockId=mbit_ultrasonic_car block="超音波センサー距離(cm)"
     //% color="#006400"
     //% weight=98
     //% blockGap=10
