@@ -14,19 +14,19 @@ namespace mbit_Display {
 
         //% blockId="OFF" block="off"
         OFF = 0,
-        //% blockId="Red" block="red"
+        //% blockId="Red" block="赤"
         Red,
-        //% blockId="Green" block="green"
+        //% blockId="Green" block="緑"
         Green,
-        //% blockId="Blue" block="blue"
+        //% blockId="Blue" block="青"
         Blue,
-        //% blockId="White" block="white"
+        //% blockId="White" block="白"
         White,
-        //% blockId="Cyan" block="cyan"
+        //% blockId="Cyan" block="空色"
         Cyan,
-        //% blockId="Pinkish" block="magenta"
+        //% blockId="Pinkish" block="紫"
         Pinkish,
-        //% blockId="Yellow" block="yellow"
+        //% blockId="Yellow" block="黄色"
         Yellow,
 
     }
